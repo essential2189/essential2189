@@ -2,7 +2,8 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=essential2189&fontAlign=30&fontSize=30&desc=Developer&descAlign=67&descAlignY=50&theme=dark)
 
 <div align=center>
-<h1>STACKS</h1></div>
+  <h1>STACKS</h1>
+</div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/javaccript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -21,8 +22,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=essential2189&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=?style=flat-square&logo=gmail&logoColor=white)
+
 [![Resume](https://img.shields.io/badge/Resume-000000?style=?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/Resume-c2048d7677cd4d00ac31975ecfe453e3)
 [![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
+![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=?style=flat-square&logo=gmail&logoColor=white)
 
 </div>
