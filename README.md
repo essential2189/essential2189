@@ -5,4 +5,4 @@
 
 ![Email](https://img.shields.io/badge/essential2189@gmail.com-4285F4?style=for-the-badge&logo=google&logoColor=white)
 [![Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://essential-2189.notion.site/CS-b50e3c17b9734932987e3d6bf4762f48)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
+[![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
