@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-[![Anurag's GitHub stats](https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&theme=dark)](https://github.com/essential2189/github-readme-stats)
+[![essential2189 GitHub stats](https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&theme=dark)](https://github.com/essential2189/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-delta-flax-98.vercel.app/api/top-langs/?username=essential2189&layout=compact)](https://github.com/essential2189/github-readme-stats)
 
 [![Resume](https://img.shields.io/badge/Resume-000000?style=?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/Resume-c2048d7677cd4d00ac31975ecfe453e3)
 [![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
