@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=essential2189&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&theme=dark)](https://github.com/essential2189/github-readme-stats)
 
 
 [![Resume](https://img.shields.io/badge/Resume-000000?style=?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/Resume-c2048d7677cd4d00ac31975ecfe453e3)
