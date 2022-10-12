@@ -28,4 +28,5 @@
 [![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
 ![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=?style=flat-square&logo=gmail&logoColor=white)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fessential2189&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
 </div>
