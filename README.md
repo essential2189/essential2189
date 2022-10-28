@@ -40,5 +40,5 @@
 [![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
 ![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23888888&title_bg=%23353535&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fessential2189&count_bg=%23888888&title_bg=%23353535&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
