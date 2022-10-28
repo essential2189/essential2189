@@ -36,9 +36,9 @@
     <a href="https://github.com/essential2189/github-readme-stats"> <img src="https://github-readme-stats-delta-flax-98.vercel.app/api/top-langs/?username=essential2189&layout=compact&exclude_repo=productive-box,github-readme-stats,mazassumnida,linux_cau" /></a>
   </div>
   
-[![Resume](https://img.shields.io/badge/Resume-000000?style=?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/Resume-c2048d7677cd4d00ac31975ecfe453e3)
-[![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
-![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=?style=flat-square&logo=gmail&logoColor=white)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/Resume-c2048d7677cd4d00ac31975ecfe453e3)
+[![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
+![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fessential2189&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23888888&title_bg=%23353535&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
 </div>
