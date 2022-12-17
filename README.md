@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hi,%20this%20is%20%20왕승재&fontSize=90&theme=dark&animation=twinkling)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=essential2189&fontAlign=30&fontSize=30&desc=Web%20Developer&descAlign=67&descAlignY=50&theme=dark)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=essential2189&fontAlign=30&fontSize=30&desc=Backend%20Developer&descAlign=67&descAlignY=50&theme=dark)
 
 
 * `중앙대학교 소프트웨어학부` - 2018.03 ~ 2022.08
