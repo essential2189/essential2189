@@ -31,7 +31,7 @@
 <br/><br/>
 <div align=center> 
 
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/Resume-c2048d7677cd4d00ac31975ecfe453e3)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://essential-2189.notion.site/4f5bd31d40634880946e566604be430e)
 [![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
 ![Email](https://img.shields.io/badge/essential2189@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
