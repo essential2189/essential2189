@@ -31,7 +31,7 @@
 <br/><br/>
 <div align=center> 
 
-[![Resume](https://img.shields.io/badge/essential2189.dev-1e1e1e?style=flat-square&logoColor=white)](https://www.essential2189.dev)
+[![Velog](https://img.shields.io/badge/essential2189.dev-1e1e1e?style=flat-square&logoColor=white)](https://www.essential2189.dev)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logoColor=white)](https://www.essential2189.dev/resume)
   
 [![Instagram](https://img.shields.io/badge/essential2189-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/essential.lll8/)
