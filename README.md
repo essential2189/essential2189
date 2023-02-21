@@ -22,7 +22,7 @@
 
 
 <a href="https://github.com/essential2189/github-readme-stats"> 
-  <img src="https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&hide=stars&theme=dark" width=55% />
+  <img src="https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&hide=stars&theme=dark" />
 </a>
 <br/><br/>
 <div align=center> 
