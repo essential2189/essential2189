@@ -24,9 +24,6 @@
 <a href="https://github.com/essential2189/github-readme-stats"> 
   <img src="https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&hide=stars&theme=dark" width=55% />
 </a>
-<a href="https://github.com/essential2189/github-readme-stats"> 
-  <img src="https://github-readme-stats-delta-flax-98.vercel.app/api/top-langs/?username=essential2189&layout=compact&exclude_repo=productive-box,github-readme-stats,mazassumnida,linux_cau" />
-</a>
 <br/><br/>
 <div align=center> 
 
