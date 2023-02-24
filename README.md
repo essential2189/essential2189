@@ -20,7 +20,6 @@
 |**DevOps**|<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white">|
 |**etc**|<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">|
 
-
 <a href="https://github.com/essential2189/github-readme-stats"> 
   <img src="https://github-readme-stats-delta-flax-98.vercel.app/api?username=essential2189&show_icons=true&hide=stars&theme=dark" />
 </a>
