@@ -11,6 +11,8 @@
 
 * `네이버 커넥트재단 <부스트캠프 웹・모바일 7기 멤버십>` - 2022.08 ~ 2022.12
 
+* `콘텐츠웨이브(Wavve)` - 2023.03 ~
+
 
 ## Skills
 |**Languages**|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">|
