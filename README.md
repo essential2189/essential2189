@@ -1,9 +1,9 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=essential2189&fontAlign=30&fontSize=30&desc=Backend%20Developer&descAlign=67&descAlignY=50&theme=dark)
 
 
-* `중앙대학교 소프트웨어학부` - 2018.03 ~ 2023.08
+* `중앙대학교 (소프트웨어학부)` - 2018.03 ~ 2023.08
 
-* `실시간 소프트웨어공학 연구실 (학부연구생)` - 2019.06 ~ 2021.08
+* `중앙대학교 실시간 소프트웨어공학 연구실 (학부연구생)` - 2019.06 ~ 2021.08
 
 * `SecuLayer (AI 개발 인턴)` - 2021.09 ~ 2022.02
 
