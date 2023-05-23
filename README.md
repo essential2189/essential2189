@@ -13,6 +13,8 @@
 
 * `콘텐츠웨이브 (2023 Wavve Tech Internship)` - 2023.03 ~ 2023.05
 
+* `콘텐츠웨이브 (Product Domain - 인프라 개발팀)` - 2023.05 ~
+
 
 ## Skills
 |**Languages**|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">|
