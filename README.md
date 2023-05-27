@@ -13,7 +13,7 @@
 
 * `콘텐츠웨이브 (2023 Wavve Tech Internship)` - 2023.03 ~ 2023.05
 
-* `콘텐츠웨이브 (Product Domain - 인프라 개발팀)` - 2023.05 ~
+* `콘텐츠웨이브 (Product Domain - 인프라 개발팀(회원, 결제))` - 2023.05 ~
 
 
 ## Skills
