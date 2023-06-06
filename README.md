@@ -1,19 +1,19 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=essential2189&fontAlign=30&fontSize=30&desc=Backend%20Developer&descAlign=67&descAlignY=50&theme=dark)
 
 
-* `중앙대학교 (소프트웨어학부)` - 2018.03 ~ 2023.08
+* `중앙대학교 [소프트웨어학부]` - 2018.03 ~ 2023.08
 
-* `중앙대학교 실시간 소프트웨어공학 연구실 (학부연구생)` - 2019.06 ~ 2021.08
+* `중앙대학교 실시간 소프트웨어공학 연구실 [학부연구생]` - 2019.06 ~ 2021.08
 
-* `SecuLayer (AI 개발 인턴)` - 2021.09 ~ 2022.02
+* `SecuLayer [AI 개발 인턴]` - 2021.09 ~ 2022.02
 
 * `네이버 커넥트재단 <부스트캠프 웹・모바일 7기 챌린지>` - 2022.07 ~ 2022.08
 
 * `네이버 커넥트재단 <부스트캠프 웹・모바일 7기 멤버십>` - 2022.08 ~ 2022.12
 
-* `콘텐츠웨이브 (2023 Wavve Tech Internship)` - 2023.03 ~ 2023.05
+* `콘텐츠웨이브 [2023 Wavve Tech Internship]` - 2023.03 ~ 2023.05
 
-* `콘텐츠웨이브 (Product Domain - 인프라 개발팀(회원,결제,상품))` - 2023.05 ~
+* `콘텐츠웨이브 [Product Domain - 인프라 개발팀(회원,결제,상품)]` - 2023.05 ~
 
 
 ## Skills
