@@ -11,9 +11,9 @@
 
 * `네이버 커넥트재단 <부스트캠프 웹・모바일 7기 멤버십>` - 2022.08 ~ 2022.12
 
-* `콘텐츠웨이브 [2023 Wavve Tech Internship]` - 2023.03 ~ 2023.05
+* `Wavve [2023 Wavve Tech Internship]` - 2023.03 ~ 2023.05
 
-* `콘텐츠웨이브 [Product Domain - 인프라 개발팀]` - 2023.05 ~
+* `Wavve [Product Domain - 인프라 개발팀]` - 2023.05 ~
 
 
 ## Skills
