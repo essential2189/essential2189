@@ -13,7 +13,7 @@
 
 * `Wavve [2023 Wavve Tech Internship]` - 2023.03 ~ 2023.05
 
-* `Wavve [Product Domain - 인프라 개발팀]` - 2023.05 ~
+* `Wavve [인프라 개발팀]` - 2023.05 ~
 
 
 ## Skills
