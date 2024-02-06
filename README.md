@@ -9,8 +9,8 @@
 | 2019.06 ~ 2021.08 | 중앙대학교 실시간 소프트웨어공학 연구실 | 학부연구생 | 
 | 2021.09 ~ 2022.02 | SecuLayer | AI 서비스 모델팀 |
 | 2022.07 ~ 2022.12 | 네이버 부스트캠프 웹・모바일 7기 | 챌린지 & 멤버십 |
-| 2023.03 ~ 2023.05 | Wavve Tech Internship | 디스플레이 도메인 |
-| 2023.05 ~ | Wavve | 인프라 개발팀 |
+| 2023.03 ~ 2023.05 | Wavve Tech Internship | 백엔드 개발 |
+| 2023.05 ~ | Wavve | 백엔드 개발 |
 
 ## Skills
 |**Languages**|<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">|
