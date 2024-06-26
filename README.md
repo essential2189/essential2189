@@ -10,10 +10,11 @@
 | 2021.09 ~ 2022.02 | SecuLayer | AI 개발 |
 | 2022.07 ~ 2022.12 | 네이버 부스트캠프 웹・모바일 7기 | 챌린지 & 멤버십 |
 | 2023.03 ~ 2023.05 | Wavve Tech Internship | 백엔드 개발 |
-| 2023.05 ~ | Wavve | 백엔드 개발 |
+| 2023.05 ~ 2024.06 | Wavve | 백엔드 개발 |
+| 2024.06 ~  | 미래에셋증권 | 백엔드 개발 |
 
 ## Skills
-|**Languages**|<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">|
+|**Languages**|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">|
 | :-----------: | :-------------: |
 |**Front-End**|<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/styled_component-DB7093?style=flat-square&logo=styled-components&logoColor=white">|
 |**Back-End**|<img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=Fi&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=fflat-square&logo=express&logoColor=white">|
